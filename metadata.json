@@ -1,0 +1,6 @@
+{
+  "name": "For Akshita",
+  "description": "A premium, cinematic, single-page romantic birthday website for Akshita with 3D interactive scenes, memory cubes, scroll constellation, photo gallery ring, and interactive gift box.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
